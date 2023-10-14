@@ -3,3 +3,5 @@ Hello world!
 My name is Charlotte.
 
 I live in Brgy. 26, Cahulugan, Gingoog City
+
+My occoupation is Web developer
